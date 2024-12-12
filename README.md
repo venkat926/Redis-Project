@@ -20,10 +20,4 @@ This is a simple Java Spring Boot project that demonstrates how to integrate Red
 
 ---
 
-## Prerequisites
-- Java 11 or higher
-- Maven
-- Redis server installed and running
-
----
 
